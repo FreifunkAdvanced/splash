@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" baseProfile="full" width="92.5px" height="64.5px">
+  <circle cx="36" cy="54" r="22" fill="none" stroke="#dc0067" stroke-width="1px" transform="translate(-13.5,-12)" />
+  <circle cx="74" cy="44" r="22" fill="none" stroke="#dc0067" stroke-width="1px" transform="translate(-13.5,-12)" />
+  <circle cx="74" cy="44" r="29" fill="none" stroke="#dc0067" stroke-width="6px" transform="translate(-13.5,-12)" />
+  <polygon points="22 48 22 52 30 52 26 56 31 56 37 50 31 44 26 44 30 48" fill="#ffcb05" transform="translate(-13.5,-12)" />
+  <polygon points="64 50 73 59 81 59 75 53 88 53 88 47 75 47 81 41 73 41" fill="#ffcb05" transform="translate(-13.5,-12)" />
+</svg>
